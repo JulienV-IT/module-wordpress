@@ -1,10 +1,16 @@
 # Module WordPress 
 
 
+## Tour de table 
+
+* présentation
+
+* état des lieux 
+
 
 ## Presentation de la solution
 
-_Wordpress est un site web qui permet d'etre alimenter et/ou mis a jour via un panel d'administration plus souvent appellé CMS_
+_Wordpress est un site web qui permet d'être alimenté et/ou mis a jour via un pannel d'administration plus souvent appellé CMS_
 
 * content managing system 
 
@@ -19,7 +25,7 @@ _Pour l'installation nous devons remplir les pré-requis_
 
 * apache _(Le serveur web)_
 
-* phpmyadmin _(le gestionnaire wev de bases de données)_
+* phpmyadmin _(le gestionnaire web de bases de données)_
 
 https://wordpress.org/support/article/how-to-install-wordpress/
 
