@@ -10,6 +10,8 @@
 
 ## Presentation de la solution
 
+[site officiel](https://wordpress.com/fr/)
+
 _Wordpress est un site web qui permet d'être alimenté et/ou mis a jour via un pannel d'administration plus souvent appellé CMS_
 
 * content managing system 
