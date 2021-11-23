@@ -18,3 +18,5 @@
 [ChildTheme tuto](https://kinsta.com/blog/wordpress-child-theme/)
 
 [referenciels](https://developer.wordpress.org/reference/)
+
+[Guide](https://www.wppourlesnuls.com/creer-blog-wordpress/)
