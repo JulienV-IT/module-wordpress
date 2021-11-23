@@ -29,11 +29,37 @@ _Pour l'installation nous devons remplir les pré-requis_
 
 * phpmyadmin _(le gestionnaire web de bases de données)_
 
-https://wordpress.org/support/article/how-to-install-wordpress/
+[installation][https://wordpress.org/support/article/how-to-install-wordpress/)
 
 ## Basic Usage
 
+_L'utilisation de base est plutot simple, il suffit de selectionner les options disponibles et de remplir le champs!_
+
+* création d'articles
+
+* création de pages
+
+* utilisation de themes
+
+* utilisation de plugins
+
+* création de themes
+
+* revue de l'architecture de wordpress (builtin, themes)
+
+[references](https://developer.wordpress.org/reference/)
+
+
 ## création de page d'articles et de shortcode 
 
+* shortcode
+
+* tags étiquettes, catégories
+
+* menu 
+
+## TP site fonctionnel sous WP
+
+* création d'un site sous wordpress en relation avec un projet concret aux choix de chaques apprenants 
 
 

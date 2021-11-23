@@ -15,3 +15,6 @@
 
 [awesome-wordpress](https://github.com/miziomon/awesome-wordpress)
 
+[ChildTheme tuto](https://kinsta.com/blog/wordpress-child-theme/)
+
+[referenciels](https://developer.wordpress.org/reference/)
