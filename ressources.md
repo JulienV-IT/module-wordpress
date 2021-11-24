@@ -23,11 +23,13 @@
 
 ## usage base
 
-[shortcut doc offciel](https://wordpress.org/support/article/shortcode-block/) 
+[shortcode doc offciel](https://wordpress.org/support/article/shortcode-block/) 
 
-[shortcut astuceswp](https://astuceswp.fr/tutos/409/definition-shortcode-wordpress)
+[shortcode astuceswp](https://astuceswp.fr/tutos/409/definition-shortcode-wordpress)
 
-[shortcut codex](https://codex.wordpress.org/fr:Shortcode)
+[shortcode codex](https://codex.wordpress.org/fr:Shortcode)
+
+[liste default shortcode]()
 
 ---
 
