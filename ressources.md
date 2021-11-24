@@ -23,12 +23,20 @@
 
 ## usage base
 
-[shortcut doc offciel](https://wordpress.org/support/article/shortcode-block/)
+[shortcut doc offciel](https://wordpress.org/support/article/shortcode-block/) 
+
 [shortcut astuceswp](https://astuceswp.fr/tutos/409/definition-shortcode-wordpress)
+
 [shortcut codex](https://codex.wordpress.org/fr:Shortcode)
+
+---
 
 [etiquettes et seo](https://astuceswp.fr/seo/194/etiquettes-seo-wordpress)
 
+---
+
 [categorie](https://wpformation.com/categories-wordpress/)
+
+---
 
 [function file style add](https://developer.wordpress.org/reference/functions/wp_register_style/)
