@@ -29,7 +29,7 @@
 
 [shortcode codex](https://codex.wordpress.org/fr:Shortcode)
 
-[liste default shortcode]()
+[liste default shortcode](https://wordpress.com/support/shortcodes/)
 
 ---
 
