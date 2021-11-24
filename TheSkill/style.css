@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+
+body{
+  background-image: url("https://soeurtherese.online/wallpaper/magiclion.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+*{
+  color: lightblue;
+  /* border: 1px solid grey; */
+}
+
+#content{
+  border: 2px solid lightgreen;
+  background-color: rgba(255,255,255,0.3);
+  margin: 0 auto;
+
+}
+
+
+.posted_container{
+  border: 2px solid yellow;
+  padding: 3%;
+}
+
+.cadre_post{
+  background-color: rgba(255,255,225,0.5);
+  border: 3px solid red;
+  padding: 1%;
+}
+
+
+.post{
+  border: 3px solid blue;
+}
+
+.category{
+  font-size: 1.5em;
+  font-family: Lobster;
+}
