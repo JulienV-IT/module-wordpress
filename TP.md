@@ -17,7 +17,12 @@ _Quelques petites taches annexes vous serons demander_
 
 * Customisatoin de votre version locale 
 
-
+* consigner tout les liens dans ce pad: https://lite1.infini.fr/p/dw-15-wordpress
+    
+    Nom Prénom:
+    lien
+    lien
+    lien
 
 # votre version locale: 
 
