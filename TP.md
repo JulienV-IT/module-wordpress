@@ -46,6 +46,8 @@ _Quelques petites taches annexes vous serons demander_
 - Blocs (audio, video, text, bannierre, espaceurs, calendrié, gallery, ect ect)
 
 
+
+
 **Surtout ne vous découragez pas, essayez de mettre un peu de fun dans votre tp developper un site qui vous fait plaisir ca aidera**
 
 **Votre site doit comporter autant d'élements cité ci-dessus que necessaire alors n'hésitez pas a en mettre partout et a galvoder un maximum vos pages pour montrer l'etendu de vos nouvelles compétences**
@@ -72,6 +74,21 @@ _Quelques petites taches annexes vous serons demander_
 
 - un lien vers votre page github
 
+- des blocs vers vos réseaux sociaux
 
+- un moyens de contacts email / tel 
+
+
+
+
+# conclusion:
+
+A lheure de la derniere pause, nous feron un petit tour de table pour voir un peu comment vous avez pu évoluer, ne vous mettez pas la pression, prenez le tp comme un jeux ou ils faut utilisez le plus de choses avec les outils disponibles, amusez vous ! meme si votre version locale n'a pas de sens ! 
+
+Contrairement a la version locale, la version locale se doit d'etre carré , et de mettre en avant vos travaux et vous même, le fun n'y est pour autant pas proscrit tant que c'est politiquement correcte, cette page pourra vous etre trés utile dans la recherche d'emplois et d'opportunitées
+
+Sachez que le TP est a prendre aux serieux car il va permettre d'évaluer vos avancées ainsi que d'adapter les cours en fonction des besoins et faire les mises a jour
+
+Bon courage je reste a votre dispositions a tout moment de la journée ! 
 
 
