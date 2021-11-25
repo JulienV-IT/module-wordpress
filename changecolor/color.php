@@ -46,19 +46,17 @@ function changecolor_option_page() {
 	<?php
 }
 function changeColor($atts) {
-  wp_enqueue_style('changecolor',plugins_url().'/changecolor/color.css');
-  wp_enqueue_script('changecolor',plugins_url().'/changecolor/color.js',array('jquery'));
 
-  if (is_array($atts))
-  wp_localize_script( 'changecolor', 'changecolorSettings', $atts );
-  else
-  wp_localize_script( 'changecolor', 'changecolorSettings', array() );
+	wp_enqueue_style('changecolor',plugins_url().'/changecolor/color.css');
+	wp_enqueue_script('changecolor',plugins_url().'/changecolor/color.js', array('jquery'));
 
+	if (is_array($atts))
+	wp_localize_script( 'changecolor', 'changecolorSettings', $atts );
+	else
+	wp_localize_script( 'changecolor', 'changecolorSettings', array() );
   $return = '<div id="colorContainer">';
-  $return .= '<span class="colorLabel"><span class="colorButton" onclick="changeColor();">Start</span></span>';
-  $return .= '<span class="colorLabel">Score: <span class="colorInput" id="colored"></span></span>';
-  $return .= '<span class="colorLabel"><span class="colorText" id="colorMessage">Press the start button to begin.</span></span>';
-  //$return .= '<span class="changecolorLabel changecolorLabelRight"><span class="changecolorText"><a href="http://wordpress.camilstaps.nl/plugins/changecolor" target="_blank">changecolor</a> by <a href="http://www.camilstaps.nl/" target="_blank">Camil Staps</a></span></span>';
+  $return .= '<button id="colorButton" onclick="countClick();" class="colorLabel"><span class="colorText" >Press the start button to begin.</span></button>';
+	$return .= '<button id="colorButton" onclick="countClickNeg();" class="colorLabel"><span class="colorText" >Press the start button to begin.</span></button>';
   $return .= '<div id="color"></div>';
   $return .= '</div><br style="clear:both;"/>';
   return $return;
