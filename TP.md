@@ -10,7 +10,7 @@ _Quelques petites taches annexes vous serons demander_
 
 * Création d'une page github pour présenter votre travail 
 
-* Création d'un compte no-ip pour mettre en ligne votre wordpress locale
+* Création d'un compte no-ip pour mettre en ligne votre wordpress locale (probleme technique)
 
 
 * Customisation de votre version en ligne 
