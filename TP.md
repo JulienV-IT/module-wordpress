@@ -75,9 +75,9 @@ _Quelques petites taches annexes vous serons demander_
 
 - Un lien vers votre **no-ip**
 
-- un lien vers votre dépot github
+- un lien vers votre dépot github (github.com)
 
-- un lien vers votre page github
+- un lien vers votre page github (username.github.io)
 
 - des blocs vers vos réseaux sociaux
 
